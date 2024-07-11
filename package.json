@@ -26,5 +26,6 @@
     "hexo-renderer-pug": "^3.0.0"
     "hexo-renderer-stylus": "^3.0.1"
     "hexo-generator-readme-file": "^1.0.3"
+    "hexo-generator-search": "^2.4.3"
   }
 }
